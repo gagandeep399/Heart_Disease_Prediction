@@ -115,8 +115,4 @@ and a confusion matrix for each model, and reports the winner.
 
 ## 📌 Author
 
-Your Name Here
-
-## 📄 License
-
-This project is open source and available under the MIT License.
+GAGANDEEP
