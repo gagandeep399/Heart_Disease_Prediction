@@ -3,6 +3,11 @@
 A complete end-to-end machine learning project that predicts whether a
 patient has heart disease based on clinical parameters.
 
+## Project image
+[!image_alt]()
+
+
+
 ## 📁 Project Structure
 
 ```
