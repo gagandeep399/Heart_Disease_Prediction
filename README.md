@@ -120,5 +120,4 @@ and a confusion matrix for each model, and reports the winner.
 - joblib
 
 ## 📌 Author
-
-GAGANDEEP
+GAGANDEEP B.TECH CSE STUDENT
