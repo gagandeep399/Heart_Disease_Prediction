@@ -4,9 +4,7 @@ A complete end-to-end machine learning project that predicts whether a
 patient has heart disease based on clinical parameters.
 
 ## Project image
-[!image_alt]()
-
-
+![image_alt](https://github.com/gagandeep399/Heart_Disease_Prediction/blob/35ec6eb969cfa744530d4f9a048248c8ebeb8139/Heat_disease(1).png)
 
 ## 📁 Project Structure
 
